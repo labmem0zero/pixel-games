@@ -1,0 +1,15 @@
+{
+  "TimeLimit": 60,
+  "TimeLimit_Min": 20,
+  "TimeLimit_Max": 180,
+  "TimeLimit_Step": 10,
+  "TimeLimit_Ru": "Время гонки",
+  "CountdownSeconds": 3,
+  "PlayerColor": 13,
+  "ObstacleColor": 2,
+  "BackgroundBright": 15,
+  "GridBright": 25,
+  "ObstacleSpeed": 6,
+  "SpawnIntervalMs": 800,
+  "PlayerStep": 1
+}
